@@ -1,0 +1,16 @@
+body::-webkit-scrollbar {
+        width: 7px;
+    }
+    
+body::-webkit-scrollbar-thumb {
+        background: #000;
+        border-radius: 5px;
+    }
+
+.info {
+    margin: 2rem 7rem;
+}
+
+p {
+    text-align: justify;
+}
